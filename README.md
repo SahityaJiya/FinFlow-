@@ -1,6 +1,5 @@
 # FinFlow - Elite Expense Tracker
 
-A high-end, responsive MERN stack expense tracker with stunning micro-interactions, glassmorphism UI, and powerful features.
 
 ![FinFlow Banner](https://via.placeholder.com/1200x400/667eea/ffffff?text=FinFlow+-+Smart+Expense+Tracker)
 
